@@ -23,5 +23,9 @@ li.nav a:hover {
   background-color: #111;
 }
 body {
-  background-color: #CFEBDF
+  background-color:#ACEB98;
+}
+p{
+  text-align:center;
+  font-size:500%;
 }
